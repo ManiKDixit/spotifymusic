@@ -1,3 +1,12 @@
+
+## These are the Music Screens
+You can seek music progress bar , switch between songs , play and pause them too.
+<div style="display: flex; flex-direction: row;">
+  <img src="src/assets/ss/Spotify1.png" alt="Music Screen" width="300" />
+  <img src="src/assets/ss/Spotify2.png" alt="Music Screen" width="300" />
+</div>
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
